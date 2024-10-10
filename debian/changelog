@@ -1,5 +1,26 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-rs-cors (1.7.0-4) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Source-only upload for testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Nilesh Patra <nilesh@debian.org>  Sat, 16 Oct 2021 15:02:58 +0530
+
+golang-github-rs-cors (1.7.0-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 21 Aug 2021 12:38:38 +0100
+
+golang-github-rs-cors (1.7.0-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 01 Dec 2019 05:06:25 +1100
+
+golang-github-rs-cors (1.7.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #942649).
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 20 Oct 2019 00:57:06 +1100
